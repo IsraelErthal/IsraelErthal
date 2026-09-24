@@ -1,78 +1,113 @@
-<h1 align="center">Olá, eu sou Israel Erthal 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Desenvolvedor Full-Stack</b> • Estudante de Desenvolvimento de Sistemas no SENAI Criciúma<br>
-  Apaixonado por robótica, web, sistemas embarcados e IoT.
-</p>
+```
+██████████████████████████████████████████████████████
+  ERTHAL.DEV // DEVELOPER SYSTEM
+  STATUS: ONLINE   MEMORY: OK   USER: VISITOR
+██████████████████████████████████████████████████████
+```
 
-<p align="center">
-  <a href="https://person-portfolio.erthalisrael77.workers.dev/">🖥️ Portfólio</a> •
-  <a href="https://www.linkedin.com/in/israel-erthal-198b47348/">LinkedIn</a> •
-  <a href="https://www.instagram.com/raelerthal">Instagram</a> •
-  <a href="mailto:erthalisrael77@gmail.com">E-mail</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&background=07100D00&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Israel+Erthal;Full-Stack+Developer;Apaixonado+por+Robotica+%26+IoT;npm+install+curiosidade" alt="Typing SVG" />
+
+</div>
+
+---
+
+### `$ cat about-me.txt`
+
+```
+USER_NAME     : ISRAEL ERTHAL
+ROLE          : FULL-STACK DEVELOPER
+ACCESS_LEVEL  : CREATIVE ENGINEERING
+LOCATION      : Criciúma / SC, Brasil
+EDUCATION     : Téc. Desenvolvimento de Sistemas — SENAI Criciúma
+```
+
+Desenvolvedor full-stack apaixonado por robótica, com experiência em web sites, landing pages, e-commerce, sistemas embarcados e projetos IoT.
+
+---
+
+### `$ ls ./tech-stack`
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-07100D?style=for-the-badge&logo=html5&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/CSS3-07100D?style=for-the-badge&logo=css3&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-07100D?style=for-the-badge&logo=javascript&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/JAVA-07100D?style=for-the-badge&logo=openjdk&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/SPRING_BOOT-07100D?style=for-the-badge&logo=springboot&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/NODE.JS-07100D?style=for-the-badge&logo=nodedotjs&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/REACT-07100D?style=for-the-badge&logo=react&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/VITE-07100D?style=for-the-badge&logo=vite&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/NEXT.JS-07100D?style=for-the-badge&logo=nextdotjs&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/TAILWIND-07100D?style=for-the-badge&logo=tailwindcss&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/PRISMA-07100D?style=for-the-badge&logo=prisma&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/SOCKET.IO-07100D?style=for-the-badge&logo=socketdotio&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/MYSQL-07100D?style=for-the-badge&logo=mysql&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/THREE.JS-07100D?style=for-the-badge&logo=threedotjs&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/IOT-07100D?style=for-the-badge&logo=arduino&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/EMBEDDED_SYSTEMS-07100D?style=for-the-badge&logo=raspberrypi&logoColor=39FF14" />
 </p>
 
 ---
 
-## 🖥️ Meu portfólio
+### `$ tree ./projects`
 
-Criei um "sistema operacional" interativo com **Three.js**, com terminal, árvore de diretórios e módulos bloqueados.
+```
+projects/
+├── [01] 🏎️  alpha-we-are-one/
+├── [02] 🏖️  sistema-guarda-vidas/
+├── [03] 📚  biblioteca-sesi-senai/
+└── [04] 🖥️  person-portfolio/
+```
 
-👉 **[Acessar o portfólio](https://person-portfolio.erthalisrael77.workers.dev/)** | [Código-fonte](https://github.com/IsraelErthal/person-portfolio)
+#### `[01]` **Alpha We Are One**
+Página oficial da **Alpha Scuderia**, equipe de STEM Racing mais premiada do Brasil, 5ª colocada no campeonato mundial 25/26. Exibe em loop o videoclipe oficial da equipe e permite que visitantes insiram nome, país e comentário, mostrados em tempo real em formato de fila sobre o vídeo.
 
-> 💡 Dica: digite `easy` no terminal para liberar toda a navegação.
+`Node.js` `Prisma` `Vite` `Socket.io`
+🔗 [site](https://alphaweareone.com.br/) · [repo](https://github.com/IsraelErthal/alpha-pit-display/)
 
-## 🌍 Sobre mim
+#### `[02]` **Sistema Guarda-Vidas**
+Registro de check-in/check-out dos guarda-vidas da praia do Arroio do Silva/SC. Demanda real do Corpo de Bombeiros de Criciúma, responsável pela instância.
 
-- 📍 **Localização:** Criciúma / SC
-- 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas, SENAI Criciúma
-- 💼 **Atuação:** sites, landing pages, e-commerce, sistemas embarcados e projetos IoT
-- 🎯 **Objetivo:** concluir o curso, evoluir sempre e alavancar minha carreira
-- 🤖 **Interesses:** robótica, programação, esportes e livros
-
-## 🛠️ Tecnologias
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Embedded](https://img.shields.io/badge/Sistemas_Embarcados-333333?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
-## 🚀 Projetos em destaque
-
-### 🏎️ [Alpha We Are One](https://alphaweareone.com.br/)
-Página oficial da **Alpha Scuderia**, equipe de STEM Racing mais premiada do Brasil, 5ª colocada no campeonato mundial 25/26. O site exibe em loop o videoclipe oficial da equipe ("We Are One") e permite que visitantes insiram nome, país e um comentário, exibidos em tempo real em formato de fila sobre o vídeo.  
-`Node.js` `Prisma` `Vite` `Socket.io`  
-🔗 [Site](https://alphaweareone.com.br/) | [Repositório](https://github.com/IsraelErthal/alpha-pit-display/)
-
-### 🏖️ [Sistema Guarda-Vidas](https://github.com/IsraelErthal/projetoGuardaVidas)
-Sistema de registro de check-in/check-out dos guarda-vidas da praia do Arroio do Silva/SC. Demanda real solicitada pelo Corpo de Bombeiros de Criciúma, responsável pela instância.  
 `Java` `Spring Boot` `React` `MySQL`
+🔗 [repo](https://github.com/IsraelErthal/projetoGuardaVidas)
 
-### 📚 [Sistema de Reservas — Biblioteca SESI/SENAI](https://github.com/IsraelErthal/projetobiblioteca)
-Sistema para facilitar a reserva de salas de estudo e computadores pelos alunos. Gera relatórios de uso por período e gráficos (colunas, barras e pizza) com dados dos ambientes reservados. Demanda trazida pela biblioteca SESI/SENAI.  
+#### `[03]` **Sistema de Reservas — Biblioteca SESI/SENAI**
+Reserva de salas de estudo e computadores pelos alunos, com relatórios de uso por período e gráficos (colunas, barras e pizza). Demanda trazida pela biblioteca SESI/SENAI.
+
 `Java` `Node.js` `MySQL`
+🔗 [repo](https://github.com/IsraelErthal/projetobiblioteca)
 
-### 🖥️ [Portfólio interativo](https://github.com/IsraelErthal/person-portfolio)
-Ambiente experimental com terminal, árvore de diretórios e módulos bloqueados, hospedado em Cloudflare Workers.  
+#### `[04]` **Portfólio Interativo**
+Ambiente experimental com terminal, árvore de diretórios e módulos bloqueados, hospedado em Cloudflare Workers.
+
 `Three.js` `Cloudflare Workers`
+🔗 [acessar](https://person-portfolio.erthalisrael77.workers.dev/) · [repo](https://github.com/IsraelErthal/person-portfolio)
 
-## 📫 Contato
+> 💡 Dica: no portfólio, digite `easy` no terminal pra liberar toda a navegação.
+
+---
+
+### `$ cat contacts.json`
+
+```json
+{
+  "email"    : "erthalisrael77@gmail.com",
+  "linkedin" : "israel-erthal-198b47348",
+  "github"   : "IsraelErthal",
+  "instagram": "raelerthal"
+}
+```
 
 <p>
-  <a href="mailto:erthalisrael77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/israel-erthal-198b47348/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/raelerthal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/31eau7u2gxmwi4ikigswinbriqcm"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="mailto:erthalisrael77@gmail.com"><img src="https://img.shields.io/badge/GMAIL-07100D?style=for-the-badge&logo=gmail&logoColor=39FF14" /></a>
+  <a href="https://www.linkedin.com/in/israel-erthal-198b47348/"><img src="https://img.shields.io/badge/LINKEDIN-07100D?style=for-the-badge&logo=linkedin&logoColor=39FF14" /></a>
+  <a href="https://www.instagram.com/raelerthal"><img src="https://img.shields.io/badge/INSTAGRAM-07100D?style=for-the-badge&logo=instagram&logoColor=39FF14" /></a>
+  <a href="https://open.spotify.com/user/31eau7u2gxmwi4ikigswinbriqcm"><img src="https://img.shields.io/badge/SPOTIFY-07100D?style=for-the-badge&logo=spotify&logoColor=39FF14" /></a>
 </p>
+
+<div align="center">
+
+`SYSTEM: ONLINE` · `NETWORK: CONNECTED` · `STATUS: OPEN TO WORK`
+
+</div>

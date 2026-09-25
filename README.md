@@ -20,10 +20,22 @@
 
 <br/>
 
-**`[01]`** [Alpha We Are One](https://alphaweareone.com.br/) — site oficial da Alpha Scuderia, equipe de STEM Racing 5ª colocada no mundial 25/26 · [repo](https://github.com/IsraelErthal/alpha-pit-display/)
-**`[02]`** [Sistema Guarda-Vidas](https://github.com/IsraelErthal/projetoGuardaVidas) — check-in/check-out dos guarda-vidas de Arroio do Silva/SC, demanda do Corpo de Bombeiros de Criciúma
-**`[03]`** [Biblioteca SESI/SENAI](https://github.com/IsraelErthal/projetobiblioteca) — reservas de salas/computadores com relatórios e gráficos
-**`[04]`** [Portfólio Interativo](https://person-portfolio.erthalisrael77.workers.dev/) — sistema em Three.js · [repo](https://github.com/IsraelErthal/person-portfolio)
+<img src="./assets/projects-panel.svg" alt="Projetos" width="100%" />
+
+<br/><br/>
+
+<img src="./assets/projects-detail-panel.svg" alt="Detalhes dos projetos" width="100%" />
+
+<br/><br/>
+
+<p align="center">
+  <a href="https://alphaweareone.com.br/"><img src="https://img.shields.io/badge/[01]_SITE-07100D?style=for-the-badge&logoColor=39FF14&labelColor=07100D&color=39FF14" /></a>
+  <a href="https://github.com/IsraelErthal/alpha-pit-display/"><img src="https://img.shields.io/badge/[01]_REPO-07100D?style=for-the-badge&logoColor=39FF14&labelColor=07100D&color=39FF14" /></a>
+  <a href="https://github.com/IsraelErthal/projetoGuardaVidas"><img src="https://img.shields.io/badge/[02]_REPO-07100D?style=for-the-badge&logoColor=39FF14&labelColor=07100D&color=39FF14" /></a>
+  <a href="https://github.com/IsraelErthal/projetobiblioteca"><img src="https://img.shields.io/badge/[03]_REPO-07100D?style=for-the-badge&logoColor=39FF14&labelColor=07100D&color=39FF14" /></a>
+  <a href="https://person-portfolio.erthalisrael77.workers.dev/"><img src="https://img.shields.io/badge/[04]_ACESSAR-07100D?style=for-the-badge&logoColor=39FF14&labelColor=07100D&color=39FF14" /></a>
+  <a href="https://github.com/IsraelErthal/person-portfolio"><img src="https://img.shields.io/badge/[04]_REPO-07100D?style=for-the-badge&logoColor=39FF14&labelColor=07100D&color=39FF14" /></a>
+</p>
 
 <div align="center">
 
